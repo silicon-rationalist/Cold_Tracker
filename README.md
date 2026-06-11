@@ -34,6 +34,37 @@ And honestly, it worked.
 
 I ended up scoring a 19k rank in KCET, and this project became one of the tools that genuinely helped me stay consistent throughout preparation.
 
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/kcet-tracker.git
+```
+
+Navigate into the project directory:
+
+```bash
+cd kcet-tracker
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+Start the development server:
+
+```bash
+npm run dev
+```
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/silicon-rationalist/KCET_Tracker/blob/main/screenshots/Screenshot%202026-06-10%20225157.png?raw=true)
@@ -44,4 +75,5 @@ I ended up scoring a 19k rank in KCET, and this project became one of the tools 
 
 ![App Screenshot](https://github.com/silicon-rationalist/KCET_Tracker/blob/main/screenshots/Screenshot%202026-06-10%20225316.png?raw=true)
 
-![App Screenshot](https://github.com/silicon-rationalist/KCET_Tracker/blob/main/screenshots/Screenshot%202026-06-10%20225255.png?raw=true)
+![App Screenshot](https://github.com/silicon-rationalist/KCET_Tracker/blob/main/screenshots/Screenshot%202026-06-10%20225001.png?raw=true)
+
